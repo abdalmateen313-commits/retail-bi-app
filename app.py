@@ -5,7 +5,7 @@ import plotly.express as px
 st.set_page_config(page_title="Retail KPI Command Center", layout="wide")
 
 # --- TITLE ---
-st.title("🚀 Retail KPI Command Center (AI Edition)")
+st.title("🚀 Retail KPI Command Center")
 st.caption("Upload your data. Get insights. Take action.")
 
 # --- FILE UPLOAD ---
